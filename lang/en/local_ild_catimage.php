@@ -20,6 +20,7 @@
  * @package     local_ild_catimage
  * @copyright   2017 oncampus GmbH, <support@oncampus.de>
  * @license     http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
+ *
  */
 
 $string['pluginname'] = 'Cat profile images';
